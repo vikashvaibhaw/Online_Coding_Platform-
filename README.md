@@ -244,7 +244,7 @@ Through this project, I explored:
 **Vikash Kumar**
 
 - GitHub: [vikashvaibhaw](https://github.com/vikashvaibhaw)
-- Project Repository: [LeetCode_App](https://github.com/vikashvaibhaw/LeetCode_App)
+- Project Repository: [Online Coding Platform](https://github.com/vikashvaibhaw/Online_Coding_Platform-)
 
 ---
 
